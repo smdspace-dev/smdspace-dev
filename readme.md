@@ -1,5 +1,7 @@
 <div align="center">
 
+<p><img src="opener.png" alt="Opener Image" width="300 /></p>
+
 # Thousif Ibrahim
 
 **Software Engineer • AI Automation Specialist • Enterprise Solutions**
@@ -16,7 +18,7 @@
 
 **For freelance work?** → [reach out](mailto:ahilxdesigns@gmail.com) ✨
 
-<p><img src="opener.png" alt="Opener Image" width="300 /></p>
+
 </div>
 
 ---
