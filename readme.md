@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="opener.png" alt="Opener Image" />
+  <img src="opener.png" alt="Opener Image" width="300 />
 </p>
 
 # Thousif Ibrahim
