@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="opener.png" alt="Opener Image" />
+</p>
+
 # Thousif Ibrahim
 
 **Software Engineer • AI Automation Specialist • Enterprise Solutions**
@@ -40,6 +44,7 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+
 ```txt
 Requirements    15 hrs          ██████████████████▒░░░░░░   43.00 %
 Architecture     5 hrs          ███▒░░░░░░░░░░░░░░░░░░░░░   14.00 %
@@ -52,7 +57,6 @@ Fixing bugs      2 hrs          ▒░░░░░░░░░░░░░░░
 
 </div>
 
----
 ---
 
 <div align="center">
@@ -76,15 +80,14 @@ Fixing bugs      2 hrs          ▒░░░░░░░░░░░░░░░
 **Repository:** [smdspace-dev](https://github.com/smdspace-dev/smdspace-dev.git)
 
 <br>
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smdspace-dev)
-![Wakatime](https://wakatime.com/badge/user/smdspace-dev-id.svg)
 
-
+<!-- ![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=smdspace-dev)
+![Wakatime](https://wakatime.com/badge/user/smdspace-dev-id.svg) -->
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=smdspace-dev&color=2B579A&style=flat-square) -->
 
 <br>
 
-**Built with ❤️ by Thousif Ibrahim**
+**Thank you..**
 
 </div>
 
