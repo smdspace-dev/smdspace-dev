@@ -47,12 +47,13 @@
 > **Software Developer @ TTG Pvt Ltd, UK**
 > Driving automation and efficiency through AI-assisted enterprise workflows.
 
-**2025 Themes:**
+**Roles :**
 
-*  GenAI + Process Automation
-*  Cloud-native CI/CD pipelines
-*  Data-driven insights with Power BI
-*  Smart microservice architecture
+* Building enterprise-grade applications with the .NET ecosystem
+* Developing intelligent automations through Microsoft Workflows
+* Leveraging Microsoft cloud products for faster, scalable development
+* Delivering data-driven insights using Power BI
+* Designing & implementing modern, maintainable system architectures
 
 ---
 
@@ -89,11 +90,10 @@ Fixing Bugs      2 hrs ░█░░░░░░░░░░░░░░░░░
 
 ## 🌟 Highlights
 
-* 🧠 Designed **AI automation pipelines** integrating Python + Azure Logic Apps
-* ⚙️ Built enterprise dashboards with **Power BI + .NET APIs**
-* 🌍 Developed scalable **Angular + REST-based** web solutions
-* 🤖 Exploring **RAG-based automation** for real-time data workflows
-
+* Designed **AI automation pipelines** integrating Python + Azure Logic Apps
+* Built enterprise dashboards with **Power BI + .NET APIs**
+* Developed scalable **Angular + REST-based** web solutions
+* Exploring **RAG-based automation** for real-time data workflows
 ---
 
 <div align="center">
