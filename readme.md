@@ -105,13 +105,3 @@ Fixing Bugs      2 hrs ░█░░░░░░░░░░░░░░░░░
 </div>
 
 ---
-```
-
-**Profile Views Counter**
-
-```markdown
-![Profile views](https://komarev.com/ghpvc/?username=smdspace-dev&style=flat-square&color=2B579A)
-```
-
-**Dark Gradient Banner Generator:**
-Use [https://huly.dev/banner](https://huly.dev/banner) or [https://capsule-render.vercel.app](https://capsule-render.vercel.app)
