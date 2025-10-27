@@ -98,22 +98,13 @@ Fixing Bugs      2 hrs ░█░░░░░░░░░░░░░░░░░
 
 <div align="center">
 
-✨ “Code with logic, design with purpose, automate with intelligence.” ✨ <br>
+✨ “Code with logic, design with purpose, automate with intelligence.”  <br>
 
 **📂 Repository:** [smdspace-dev](https://github.com/smdspace-dev/smdspace-dev)
 
 </div>
 
 ---
-
-### Optional Add-ons
-
-**Animated Typing Header**
-
-```html
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+Automation+Engineer;Full+Stack+.NET+%26+Python+Developer;Cloud+%26+Data+Driven+Solutions" alt="Typing SVG" />
-</p>
 ```
 
 **Profile Views Counter**
