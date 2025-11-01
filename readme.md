@@ -1,220 +1,436 @@
-<div align="center"><div align="center">
+<div align="center"><div align="center"><div align="center">
 
 
 
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Thousif%20Ibrahim&fontSize=80&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Automation%20Specialist%20•%20Enterprise%20Solutions&descAlignY=60&descAlign=50&fontColor=fff&animation=fadeIn"/># 🌐 Thousif Ibrahim
+# 👨‍💻 Thousif Ibrahim
 
 
 
-<div align="center">### [Portfolio → thousif.netlify.app](https://thousif.netlify.app)
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Automation+Specialist;Enterprise+Solutions+Expert;Python+%7C+.NET+%7C+Angular+%7C+Power+BI" alt="Typing SVG" />
-
-</div> **Software Engineer | AI Automation Specialist | Enterprise Solutions**
+### Software Engineer | AI Automation Specialist | Enterprise Solutions<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Thousif%20Ibrahim&fontSize=80&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Automation%20Specialist%20•%20Enterprise%20Solutions&descAlignY=60&descAlign=50&fontColor=fff&animation=fadeIn"/># 🌐 Thousif Ibrahim
 
 
 
-<br>> *Building intelligent, scalable, and automated systems with Python, .NET, Angular, and Power BI.*
+> *Building intelligent, scalable, and automated systems with Python, .NET, Angular, and Power BI.*
 
 
 
-### 🌟 Portfolio → [thousif.netlify.app](https://thousif.netlify.app)---
+---<div align="center">### [Portfolio → thousif.netlify.app](https://thousif.netlify.app)
 
 
 
-<br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/thousif-ibrahim-29050421b)
+### 🌟 [Portfolio → thousif.netlify.app](https://thousif.netlify.app)  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Automation+Specialist;Enterprise+Solutions+Expert;Python+%7C+.NET+%7C+Angular+%7C+Power+BI" alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/smdspace-dev)
 
-<p align="center">[![Email](https://img.shields.io/badge/Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ahilxdesigns@gmail.com)
+
+<p align="center"></div> **Software Engineer | AI Automation Specialist | Enterprise Solutions**
 
   <a href="https://linkedin.com/in/thousif-ibrahim-29050421b">
 
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/><br>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 
   </a>
 
-  <a href="https://github.com/smdspace-dev"> *Available for freelance & collaboration — [Let’s connect](mailto:ahilxdesigns@gmail.com)*
+  <a href="https://github.com/smdspace-dev"><br>> *Building intelligent, scalable, and automated systems with Python, .NET, Angular, and Power BI.*
 
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
-  </a><br>
+  </a>
 
   <a href="mailto:ahilxdesigns@gmail.com">
 
-    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/><img src="opener.png" width="280" alt="Intro Banner" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>### 🌟 Portfolio → [thousif.netlify.app](https://thousif.netlify.app)---
 
   </a>
 
-  <a href="https://thousif.netlify.app"></div>
+  <a href="https://thousif.netlify.app">
 
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722"/>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio"/>
 
-  </a>---
+  </a><br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/thousif-ibrahim-29050421b)
 
 </p>
 
-## ⚙️ Core Technologies
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/smdspace-dev)
 
 <br>
 
-<div align="center">
+<p align="center">[![Email](https://img.shields.io/badge/Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ahilxdesigns@gmail.com)
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding gif"/>
+<img src="opener.png" width="300" alt="Professional Banner" style="border-radius: 8px;"/>
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-
-<br>![.NET](https://img.shields.io/badge/.NET-682876?style=for-the-badge\&logo=dotnet\&logoColor=white)
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
-
-💡 *Available for freelance & collaboration — [Let's connect](mailto:ahilxdesigns@gmail.com)*![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+  <a href="https://linkedin.com/in/thousif-ibrahim-29050421b">
 
 <br>
 
-💡 **AI-Powered Automation** • **Data Engineering** • **Enterprise Dashboards**
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/><br>
 
-<img src="https://komarev.com/ghpvc/?username=smdspace-dev&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+💼 *Available for freelance & collaboration — [Let's connect](mailto:ahilxdesigns@gmail.com)*
+
+  </a>
+
+<br>
+
+  <a href="https://github.com/smdspace-dev"> *Available for freelance & collaboration — [Let’s connect](mailto:ahilxdesigns@gmail.com)*
+
+<img src="https://komarev.com/ghpvc/?username=smdspace-dev&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views"/>
+
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
 
 </div>
 
-</div>
+  </a><br>
 
 ---
 
-<br><br>
+  <a href="mailto:ahilxdesigns@gmail.com">
 
-## 🚀 Current Focus
+## 🚀 About Me
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+    <img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/><img src="opener.png" width="280" alt="Intro Banner" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"/>
 
-> **Software Developer @ TTG Pvt Ltd, UK**
+<table>
 
-## 🚀 About Me> Driving automation and efficiency through AI-assisted enterprise workflows.
+<tr>  </a>
+
+<td width="60%">
+
+  <a href="https://thousif.netlify.app"></div>
+
+I'm a passionate **Software Developer** currently working at **TTG Pvt Ltd, UK**, specializing in:
+
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722"/>
+
+- 🤖 **AI-Powered Automation** - Creating intelligent workflows
+
+- 🏗️ **Enterprise Applications** - Building scalable .NET solutions    </a>---
+
+- 📊 **Data Analytics** - Developing Power BI dashboards
+
+- 🌐 **Web Development** - Modern Angular applications</p>
+
+- ☁️ **Cloud Solutions** - Azure and AWS implementations
+
+## ⚙️ Core Technologies
+
+**Current Focus:** Developing RAG-based automation systems for real-time data workflows.
+
+<br>
+
+</td>
+
+<td width="40%"><div align="center">
 
 
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">**Roles :**
+```typescript<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding gif"/>
 
+const thousif = {
 
+  role: "Software Developer",![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 
-```typescript* Building enterprise-grade applications with the .NET ecosystem
+  company: "TTG Pvt Ltd, UK",
 
-const thousif = {* Developing intelligent automations through Microsoft Workflows
-
-  pronouns: "He/Him",* Leveraging Microsoft cloud products for faster, scalable development
-
-  location: "Global Remote",* Delivering data-driven insights using Power BI
-
-  role: "Software Developer @ TTG Pvt Ltd, UK",* Designing & implementing modern, maintainable system architectures
+  location: "Global Remote",<br>![.NET](https://img.shields.io/badge/.NET-682876?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
   
 
-  expertise: [---
+  expertise: [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
 
-    "AI-Powered Automation",
+    "AI Automation",
 
-    "Enterprise Application Development", ## 📊 Weekly Development Breakdown
+    "Enterprise Development", 💡 *Available for freelance & collaboration — [Let's connect](mailto:ahilxdesigns@gmail.com)*![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
-    "Data Engineering & Analytics",
+    "Data Engineering",
 
-    "Cloud Architecture"<div align="center">
+    "Cloud Architecture"![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
   ],
 
-  <!--START_SECTION:waka-->
+  <br>
 
-  technologies: {
+  motto: "Code with logic, design with purpose"
 
-    backend: ["Python", ".NET Core", "C#", "Node.js"],```txt
+};💡 **AI-Powered Automation** • **Data Engineering** • **Enterprise Dashboards**
 
-    frontend: ["Angular", "TypeScript", "HTML5", "CSS3"],Requirements   15 hrs  ████████████████▌░░░░░░░   43.00 %
+```
 
-    cloud: ["Azure", "AWS", "Power Platform"],Architecture    5 hrs  ███▜░░░░░░░░░░░░░░░░░░   14.00 %
+<img src="https://komarev.com/ghpvc/?username=smdspace-dev&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 
-    data: ["Power BI", "SQL Server", "PostgreSQL"],Logic Design    3 hrs  ██▜░░░░░░░░░░░░░░░░░░   09.00 %
+</td>
 
-    ai: ["Azure AI", "OpenAI", "Machine Learning"]Coding         10 hrs  █████▌░░░░░░░░░░░░░░░   29.00 %
+</tr></div>
 
-  },Fixing Bugs      2 hrs ░█░░░░░░░░░░░░░░░░░░░   05.00 %
+</table>
 
-  ```
-
-  currentFocus: "Building intelligent automation workflows",
-
-  funFact: "I turn coffee into enterprise solutions ☕→🚀"<!--END_SECTION:waka-->
-
-};
-
-```</div>
-
-
-
-<br><br>---
-
-
-
-## ⚡ Tech Stack & Tools## 📈 GitHub Stats
-
-
-
-<div align="center"><div align="center">
-
-
-
-### 🌐 **Frontend Development**<img src="https://github-readme-stats.vercel.app/api?username=smdspace-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)<img src="https://github-readme-streak-stats.herokuapp.com/?user=smdspace-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</div>
-
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)---
-
-
-
-### ⚙️ **Backend Development**## 🌟 Highlights
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-![.NET](https://img.shields.io/badge/.NET-682876?style=for-the-badge&logo=dotnet&logoColor=white)* Designed **AI automation pipelines** integrating Python + Azure Logic Apps
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)* Built enterprise dashboards with **Power BI + .NET APIs**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)* Developed scalable **Angular + REST-based** web solutions
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)* Exploring **RAG-based automation** for real-time data workflows
+</div>
 
 ---
 
-### ☁️ **Cloud & DevOps**
+---
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)<div align="center">
+## ⚡ Tech Stack
+
+<br><br>
+
+<div align="center">
+
+## 🚀 Current Focus
+
+### **Backend Development**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+![.NET](https://img.shields.io/badge/.NET-682876?style=for-the-badge&logo=dotnet&logoColor=white)
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)> **Software Developer @ TTG Pvt Ltd, UK**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 🚀 About Me> Driving automation and efficiency through AI-assisted enterprise workflows.
+
+### **Frontend Development**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">**Roles :**
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+### **Cloud & DevOps**
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)```typescript* Building enterprise-grade applications with the .NET ecosystem
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)✨ “Code with logic, design with purpose, automate with intelligence.”  <br>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)const thousif = {* Developing intelligent automations through Microsoft Workflows
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)**📂 Repository:** [smdspace-dev](https://github.com/smdspace-dev/smdspace-dev)
+  pronouns: "He/Him",* Leveraging Microsoft cloud products for faster, scalable development
+
+### **Data & AI**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  location: "Global Remote",* Delivering data-driven insights using Power BI
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  role: "Software Developer @ TTG Pvt Ltd, UK",* Designing & implementing modern, maintainable system architectures
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+  
+
+</div>
+
+  expertise: [---
+
+---
+
+    "AI-Powered Automation",
+
+## 📊 GitHub Statistics
+
+    "Enterprise Application Development", ## 📊 Weekly Development Breakdown
+
+<div align="center">
+
+    "Data Engineering & Analytics",
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=smdspace-dev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=smdspace-dev&theme=radical&hide_border=true" alt="GitHub Streak"/>    "Cloud Architecture"<div align="center">
 
 
 
-### 📊 **Data & Analytics**</div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdspace-dev&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>  ],
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smdspace-dev&theme=radical&utcOffset=0" alt="Productive Time"/>
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)---
+  <!--START_SECTION:waka-->
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</div>
+
+  technologies: {
+
+---
+
+    backend: ["Python", ".NET Core", "C#", "Node.js"],```txt
+
+## 🎯 Current Work & Projects
+
+    frontend: ["Angular", "TypeScript", "HTML5", "CSS3"],Requirements   15 hrs  ████████████████▌░░░░░░░   43.00 %
+
+<div align="center">
+
+    cloud: ["Azure", "AWS", "Power Platform"],Architecture    5 hrs  ███▜░░░░░░░░░░░░░░░░░░   14.00 %
+
+<table>
+
+<tr>    data: ["Power BI", "SQL Server", "PostgreSQL"],Logic Design    3 hrs  ██▜░░░░░░░░░░░░░░░░░░   09.00 %
+
+<td width="50%">
+
+    ai: ["Azure AI", "OpenAI", "Machine Learning"]Coding         10 hrs  █████▌░░░░░░░░░░░░░░░   29.00 %
+
+### 🔥 **Active Projects:**
+
+- 🏗️ Enterprise-grade .NET applications  },Fixing Bugs      2 hrs ░█░░░░░░░░░░░░░░░░░░░   05.00 %
+
+- 🤖 AI-powered automation workflows  
+
+- 📊 Interactive Power BI dashboards  ```
+
+- 🌐 Modern Angular web solutions
+
+- ☁️ Cloud-native Azure architectures  currentFocus: "Building intelligent automation workflows",
+
+
+
+</td>  funFact: "I turn coffee into enterprise solutions ☕→🚀"<!--END_SECTION:waka-->
+
+<td width="50%">
+
+};
+
+### 🎯 **Focus Areas:**
+
+- 🧠 RAG-based automation systems```</div>
+
+- 🔗 Microsoft Graph API integrations
+
+- 📈 Real-time data processing pipelines
+
+- 🛡️ Enterprise security patterns
+
+- 🚀 Microservices architecture<br><br>---
+
+
+
+</td>
+
+</tr>
+
+</table>## ⚡ Tech Stack & Tools## 📈 GitHub Stats
+
+
+
+</div>
+
+
+
+---<div align="center"><div align="center">
+
+
+
+## 📈 Weekly Development Breakdown
+
+
+
+<div align="center">### 🌐 **Frontend Development**<img src="https://github-readme-stats.vercel.app/api?username=smdspace-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+
+
+
+<!--START_SECTION:waka-->![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)<img src="https://github-readme-streak-stats.herokuapp.com/?user=smdspace-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+```text
+
+💡 Requirements Analysis    15 hrs  ████████████████▌░░░░░░░   43.00%![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+🏗️ System Architecture      5 hrs  ███▜░░░░░░░░░░░░░░░░░░░░░   14.00%
+
+🎨 Logic Design             3 hrs  ██▜░░░░░░░░░░░░░░░░░░░░░░    9.00%![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)</div>
+
+💻 Development             10 hrs  █████▌░░░░░░░░░░░░░░░░░░░   29.00%
+
+🐛 Bug Fixing               2 hrs  █░░░░░░░░░░░░░░░░░░░░░░░░    5.00%![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+```
+
+<!--END_SECTION:waka-->![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)---
+
+
+
+</div>
+
+
+
+---### ⚙️ **Backend Development**## 🌟 Highlights
+
+
+
+## 🏆 Key Achievements![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
+
+<div align="center">![.NET](https://img.shields.io/badge/.NET-682876?style=for-the-badge&logo=dotnet&logoColor=white)* Designed **AI automation pipelines** integrating Python + Azure Logic Apps
+
+
+
+✅ **AI Automation:** Reduced manual processes by 80% with intelligent workflows  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)* Built enterprise dashboards with **Power BI + .NET APIs**
+
+✅ **Enterprise Dashboards:** Built 15+ interactive Power BI solutions  
+
+✅ **Web Applications:** Developed 10+ full-stack Angular/.NET applications  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)* Developed scalable **Angular + REST-based** web solutions
+
+✅ **API Integrations:** Successfully integrated 25+ third-party services  
+
+✅ **Team Leadership:** Mentored 5+ junior developers  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)* Exploring **RAG-based automation** for real-time data workflows
+
+
+
+</div>---
+
+
+
+---### ☁️ **Cloud & DevOps**
+
+
+
+## 🤝 Let's Connect![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)<div align="center">
+
+
+
+<div align="center">![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
+### Open to freelance projects, collaborations, and new opportunities!![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)✨ “Code with logic, design with purpose, automate with intelligence.”  <br>
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thousif-ibrahim-29050421b)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahilxdesigns@gmail.com)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_My_Work-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://thousif.netlify.app)![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)**📂 Repository:** [smdspace-dev](https://github.com/smdspace-dev/smdspace-dev)
+
+
+
+<br>
+
+
+
+*"Building tomorrow's solutions with today's technology"*### 📊 **Data & Analytics**</div>
+
+
+
+---![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+
+
+**⭐ Star my repositories if you find them interesting!**![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)---
+
+
+
+*Last Updated: November 2024*![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+</div>
 ### 🤖 **AI & Automation**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Azure AI](https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
