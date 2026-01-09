@@ -1,17 +1,17 @@
 # Thousif Ibrahim
 
-**Software Engineer | AI Automation Specialist | Enterprise Solutions**
+**Software Engineer | Automation  | Enterprise Solutions**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thousif-ibrahim-29050421b)
 [![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/smdspace-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahilxdesigns@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://thousif.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://thousif-portfolio.web.app)
 
 ---
 
 ## About Me
 
-Full-stack developer specializing in enterprise solutions with expertise in Python, .NET, Angular, and Power BI. Currently building intelligent, scalable, and automated systems at **TTG Pvt Ltd, UK**.
+Developer specializing in enterprise solutions with expertise in Python, .NET, Angular, and Power BI. Currently building intelligent, scalable, and automated systems at **TTG Pvt Ltd, UK**.
 
 I focus on developing AI-powered automation workflows, cloud-native architectures, and data-driven enterprise applications that drive efficiency and innovation.
 
@@ -66,18 +66,18 @@ I focus on developing AI-powered automation workflows, cloud-native architecture
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smdspace-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smdspace-dev&layout=compact&theme=dark"/>
+<div>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=smdspace-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
 </div>
+
 
 ---
 
 ## Let's Connect
 
-I'm open to collaboration and interesting projects. Feel free to reach out via [LinkedIn](https://linkedin.com/in/thousif-ibrahim-29050421b) or [Email](mailto:ahilxdesigns@gmail.com).
+I'm open to collaboration and interesting projects. Feel free to reach out via [LinkedIn](https://linkedin.com/in/thousif-ibrahim-29050421b) , [Email](mailto:ahilxdesigns@gmail.com) or Book a 1:1 via [Portfolio](https://thousif-portfolio.web.app) .
 
 ---
 
