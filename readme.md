@@ -6,8 +6,9 @@
 [![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/Thousifibrahim)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact.thousif+github@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://thousif-portfolio.web.app)
+<img src="https://komarev.com/ghpvc/?username=smdspace-dev&color=blue&style=flat" alt="Profile views"/>
 
----
+#
 
 ## About Me
 
@@ -15,7 +16,7 @@ Developer specializing in enterprise solutions with expertise in Python, .NET, A
 
 I focus on developing AI-powered automation workflows, cloud-native architectures, and data-driven enterprise applications that drive efficiency and innovation.
 
----
+#
 
 ## Tech Stack
 
@@ -46,26 +47,7 @@ I focus on developing AI-powered automation workflows, cloud-native architecture
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
----
-
-## Current Focus
-
-**Building:**
-- Enterprise-grade .NET applications
-- AI-powered automation workflows
-- Interactive Power BI dashboards
-- Angular web platforms
-- Cloud-native Azure architectures
-
-**Exploring:**
-- RAG-based automation systems
-- Microsoft Graph API integrations and gRPC
-- Real-time data pipelines
-- Enterprise-grade security
-- Microservices architecture
-
----
-
+#
 ## 📊 GitHub Analytics
 
 <div>
@@ -73,14 +55,11 @@ I focus on developing AI-powered automation workflows, cloud-native architecture
 </div>
 
 
----
+#
 
 ## Let's Connect
 
 I'm open to collaboration and interesting projects. Feel free to reach out via [LinkedIn](https://linkedin.com/in/thousif-ibrahim-29050421b) , [Email](mailto:contact.thousif+github@gmail.com) or Book a 1:1 via [Portfolio](https://thousif-portfolio.web.app) .
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=smdspace-dev&color=blue&style=flat" alt="Profile views"/>
-</div>
+
