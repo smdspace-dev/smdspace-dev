@@ -3,8 +3,8 @@
 **Software Engineer | Automation  | Enterprise Solutions**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/thousif-ibrahim-29050421b)
-[![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/smdspace-dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ahilxdesigns@gmail.com)
+[![GitHub](https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white)](https://github.com/Thousifibrahim)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact.thousif+github@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://thousif-portfolio.web.app)
 
 ---
@@ -69,7 +69,7 @@ I focus on developing AI-powered automation workflows, cloud-native architecture
 ## 📊 GitHub Analytics
 
 <div>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=smdspace-dev&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thousifibrahim&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
 </div>
 
 
@@ -77,7 +77,7 @@ I focus on developing AI-powered automation workflows, cloud-native architecture
 
 ## Let's Connect
 
-I'm open to collaboration and interesting projects. Feel free to reach out via [LinkedIn](https://linkedin.com/in/thousif-ibrahim-29050421b) , [Email](mailto:ahilxdesigns@gmail.com) or Book a 1:1 via [Portfolio](https://thousif-portfolio.web.app) .
+I'm open to collaboration and interesting projects. Feel free to reach out via [LinkedIn](https://linkedin.com/in/thousif-ibrahim-29050421b) , [Email](mailto:contact.thousif+github@gmail.com) or Book a 1:1 via [Portfolio](https://thousif-portfolio.web.app) .
 
 ---
 
